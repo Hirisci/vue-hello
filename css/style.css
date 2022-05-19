@@ -55,6 +55,10 @@
 body{
     font-family: 'rotobo', sans-serif;
     color: var(--colore-testo);
+    text-align: center;
+    display: grid;
+    height: 100vh;
+    place-items: center;
 }
 
 
@@ -64,7 +68,3 @@ body{
     TAG SEMANTICI
   ╚═══════════════╝*/
 
-img{
-    height: 200px;
-    width: 200px;
-}
